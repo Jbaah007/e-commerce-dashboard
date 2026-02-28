@@ -67,9 +67,9 @@ Pull requests and issues are welcome!
 If this helped you, ⭐️ star the repo and share it with others.
 
 ## 🔗 Connect with Me
-GitHub: @shibinvl
+GitHub: jbaah007
 
-LinkedIn: [Shibin VL](https://www.linkedin.com/in/shibin-v-l-5b8180182) 
+LinkedIn: [James Baah](www.linkedin.com/in/james-baah-1616b020a) 
 
 ---
 
