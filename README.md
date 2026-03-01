@@ -31,8 +31,9 @@ Tailwind CSS was used for styling the application. It allowed fast UI developmen
 3.5	Git and GitHub 
 Git was used for version control, and GitHub was used to host the repository. This ensured proper tracking of changes and integration with deployment tools. 
 3.6	Vercel 
-Vercel was used to deploy the application. It connects directly to GitHub and automatically builds and deploys the project whenever updates are pushed. 
-6.	Application Structure 
+Vercel was used to deploy the application. It connects directly to GitHub and automatically builds and deploys the project whenever updates are pushed.
+
+7.	Application Structure 
 The project follows a component-based structure using Next.js App Router. 
 The main sections include: 
 •	Dashboard Page – Displays summary cards and navigation 
