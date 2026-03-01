@@ -1,8 +1,5 @@
-E-Commerce Dashboard Web Application 
-Project Report 
-Student Name: James Baah 
+E-Commerce Dashboard Web Application
 Course: Web-Database Application CSC 600 50  
-Instructor: Dr. Wiseborn Danquah Date: February 28, 2026 
 
 1.	Introduction 
 This project focuses on the design, development, and deployment of a modern E-Commerce Dashboard Web Application. The main idea behind the project was to simulate a simplified online shopping system where users can browse products, add items to a shopping cart, adjust quantities, and view total price calculations in real time. 
